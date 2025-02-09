@@ -1,7 +1,7 @@
 # LEGOBatteryBoxPCB
 In case you were careless or just a victim of Duracells.
 
-In my case, my younger self was not too careful with removing alkalines from Power Functions battery boxes when putting sets away. Sure, I can bodge the old PCB, in most cases, or buy a copycat battery box for next to nothing, but I felt like a replacement PCB for the originals would be good to have. I suspect this fits the earlier gray and red 9V box of the same style - haven't opened one to check.
+In my case, my younger self was not too careful with removing alkalines from Power Functions battery boxes (59510c01) when putting sets away. Sure, I can bodge the old PCB, in most cases, or buy a copycat battery box for next to nothing, but I felt like a replacement PCB for the originals would be good to have. I suspect this fits the earlier gray and red 9V box of the same style (54950c01) - haven't opened one to check.
 
 ![image](https://github.com/user-attachments/assets/80f8873e-9eed-4a58-84d9-2ac0ad425e50)
 ![image](https://github.com/user-attachments/assets/28e9470b-c893-4ff3-b3ba-cd4bba850a51)
