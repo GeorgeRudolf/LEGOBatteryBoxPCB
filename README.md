@@ -12,7 +12,7 @@ Contacts: I have been using acid to clean the corrosion, and then nickel-plating
 
 
 This is a bit of a quick and dirty hack - which I felt should be enough for such a simple object. No improvement attempt was made - this is supposed to be a direct replacement, for which you should lift the parts from the old PCB.
-The KiCad project files, ugly as they may be, are included, as well as Gerber files that you can use to get PCBs made directly at the boardhouse of your choice. OSHPark, PCBWay or JLC at the default settings will work just fine, but select gold plating (ENIG) for best results. If you're in the US, OSHPark is probably the best choice here. Anywhere else depends on shipping.
+The KiCad project files, ugly as they may be, are included, as well as Gerber files that you can use to get PCBs made directly at the boardhouse of your choice. Use 1mm thickness for the PCB. Select gold plating (ENIG) for best results. If you're in the US, OSHPark is probably the best choice here. Anywhere else depends on shipping.
 
 I'd love to know if these end up being helpful to you.
 
