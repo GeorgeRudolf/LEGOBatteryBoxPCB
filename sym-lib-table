@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lego_battery")(type "KiCad")(uri "${KIPRJMOD}/lego_battery.kicad_sym")(options "")(descr ""))
+)
